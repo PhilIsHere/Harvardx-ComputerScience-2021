@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It takes very long on all given numbers.txt
+
+sort2 uses: merge sort
+
+How do you know?: The results come in super fast. The divide and conquer method just works best especially on the reversed.txt
+
+sort3 uses: selection sort
+
+How do you know?: It's the only one left and takes even longer than bubble sort.
